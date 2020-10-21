@@ -41,3 +41,26 @@ p {
 	float: right;
 	width: 40%;
 }
+
+.dogheadline {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+.rocket {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+/* Clearfix--------------------------------------- */
+
+.clearfix::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
