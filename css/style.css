@@ -13,9 +13,31 @@ header {
 	padding: 0;
 	position: relative;
 }
+.headerlogo {
+	width: 50%;
+	min-width: 500px;
+}
+
 body{
 	margin:0;
 }
 p{
 	text-align: center;
+	padding-bottom: 15px;
+}
+
+.lorem {
+	float: left;
+	width: 60%;
+	margin: 0;
+}
+.vertical-row {
+	Float: right;
+	height:100px;
+	width:1px; /* edit this if you want */
+	background-color: black
+   } 
+.triangles {
+	float: right;
+	width: 40%;
 }
