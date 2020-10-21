@@ -30,7 +30,7 @@ p {
 
 .lorem {
 	float: left;
-	width: 60%;
+	width: 50%;
 	margin: 0;
 }
 
@@ -43,7 +43,7 @@ p {
 
 .triangles {
 	float: right;
-	width: 40%;
+	width: 50%;
 }
 
 .dogheadline {
