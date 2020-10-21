@@ -13,6 +13,7 @@ header {
 	padding: 0;
 	position: relative;
 }
+
 .headerlogo {
 	width: 50%;
 	min-width: 500px;
@@ -21,6 +22,7 @@ header {
 body {
 	margin:0;
 }
+
 p {
 	text-align: center;
 	padding-bottom: 15px;
@@ -31,12 +33,14 @@ p {
 	width: 60%;
 	margin: 0;
 }
+
 .vertical-row {
 	Float: right;
 	height:100px;
 	width:1px; /* edit this if you want */
 	background-color: black
    } 
+
 .triangles {
 	float: right;
 	width: 40%;
@@ -50,10 +54,7 @@ p {
 	margin-top: 150px;
 	width: 50%;
 	font-size: 25px;
-
 }
-
-
 
 .rocket {
 	display: block;
