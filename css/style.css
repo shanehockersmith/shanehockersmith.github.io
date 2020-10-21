@@ -17,6 +17,8 @@ header {
 .headerlogo {
 	width: 50%;
 	min-width: 500px;
+	margin-top: 0;
+	padding-top: 0;
 }
 
 body {
@@ -26,6 +28,15 @@ body {
 p {
 	text-align: center;
 	padding-bottom: 15px;
+}
+
+.mainpara {
+	text-align: center;
+	color: white;
+	background-color: rgba(0, 132, 255, 0.5);
+	box-shadow: 5px 5px 5px black;
+	margin: 10px;
+	padding: 0;
 }
 
 .lorem {
