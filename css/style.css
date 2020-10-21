@@ -1,5 +1,21 @@
 
 header {
-	color: aqua;
-	size: 5px;
+	background-image: linear-gradient(to bottom, rgb(212, 175, 55), rgba(0, 0, 0, 0));
+	text-align: center;
+	font-size: 2em;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-shadow: 2px 2px 2px black;
+	color: white;
+	width: auto;
+	height: auto;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+body{
+	margin:0;
+}
+p{
+	text-align: center;
 }
